@@ -102,9 +102,9 @@ hackathons : 🥇 VC Sprint · 🥇 Robotics (Unitree Go2) · 🥈 Deepfake Engi
 
 | 🏅 | Event | Project |
 |---|---|---|
-| 🥇 1st Place | VC Sprint Hackathon (organised by VCs) | Aegis AI |
-| 🥇 1st Place | Robotics Hackathon | Unitree Go2 Locomotion Training |
-| 🥈 2nd Place | AI Hackathon | Deepfake Engine Detector |
+| 🥇 3rd Place | VC Sprint Hackathon (organised by VCs) | Aegis AI |
+| 🥇 4th Place | Robotics Hackathon | Unitree Go2 Locomotion Training |
+| 🥈 2nd Place | Auraverse | Deepfake Engine Detector |
 
 ---
 
